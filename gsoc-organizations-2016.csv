@@ -1,0 +1,179 @@
+,Organizations,Technologies,Slots,Ideas Page,Contact
+0,52°North Initiative for Geospatial Open Source Software GmbH,"javascript, java, ogc standards, web services",3,https://wiki.52north.org/bin/view/Projects/GSoC2016ProjectIdeas,http://list.52north.org/mailman/listinfo/gsoc
+1,aimacode,"python, java, javascript",3,http://norvig.com/gsoc-ideas.html,https://groups.yahoo.com/neo/groups/aima-talk/info
+2,AOSSIE - The Australian National University's Open-Source Software Innovation and Education,"scala, lisp, llvm, python, postgresql",6,https://cecs.anu.edu.au/current-students/student-opportunities/google-summer-code-anu#acton-tabs-link--tabs-0-middle-1,https://cecs.anu.edu.au/current-students/student-opportunities/google-summer-code-anu#acton-tabs-link--tabs-0-middle-3
+3,Apache Software Foundation,"java, ruby, python, javascript, couchdb",35,http://s.apache.org/gsoc2016ideas,https://wiki.apache.org/general/IRC
+4,ArchC,"c++, python, archc",2,http://www.archc.org/gsoc-2016.html,http://www.archc.org/contact.html
+5,ASCEND,"python, c, c/c++",3,http://ascend4.org/Student_projects,http://ascend4.org/Support
+6,BeagleBoard.org,"beaglebone, javascript, python, linux, c",6,http://bit.ly/bbgsocideas,"http://webchat.freenode.net/?channels=beagle,beagle-gsoc"
+7,Beam Community,"erlang, elixir, xmpp, beam, mqtt",6,https://github.com/beamcommunity/beamcommunity.github.com/wiki,https://beamcommunity.github.io/
+8,Berkman Center for Internet and Society,"ruby on rails, javascript, sql/nosql, meteor.js, go",10,http://cyber.law.harvard.edu/gsoc,https://cyber.law.harvard.edu/lists/info/gsoc2016
+9,BioJS,"javascript, python",3,http://biojs.net/gsoc,https://gitter.im/biojs/biojs
+10,"Biomedical Informatics, Emory University","java, medical imaging, deep learning, hadoop, python",5,http://www.bmi.emory.edu/gsoc2016,https://gsoc2016-bmi.slack.com
+11,Blender Foundation,"c, c++, python, opengl",8,http://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2016/Ideas,http://wiki.blender.org/index.php/Community:Chat
+12,Boston University / XIA,"xia, c, linux kernel, advanced data structures",2,https://github.com/AltraMayor/XIA-for-Linux/wiki/Ideas-list,http://groups.google.com/group/linux-xia
+13,BRL-CAD,"opencl, opengl, c/c++, python, tcl",9,http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas,http://brlcad.org/wiki/IRC
+14,BuildmLearn,"python, django, bootstrap, android",4,https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2016-Ideas,https://groups.google.com/forum/#!forum/buildmlearn
+15,Canadian Centre for Computational Genomics (C3G) - Montreal node,"python, r-project, javascript, sql, git",3,https://bitbucket.org/mugqic/gsoc2016/overview,https://bitbucket.org/mugqic/gsoc2016/src/master/mailing_list.md
+16,Catrobat,"android, java, html5, web, javascript",7,http://developer.catrobat.org/gsoc_2016_ideas_page.html,https://github.com/Catrobat/Catroid/wiki/Setup-working-environment
+17,cBioPortal for Cancer Genomics,"java, javascript, web, html, big data",5,https://github.com/cBioPortal/GSoC/wiki/ideas,https://groups.google.com/forum/#!forum/cbioportal-gsoc
+18,CCExtractor Development,"c, video, ffmpeg, subtitles, linux",6,http://www.ccextractor.org/gsoc2016.html,http://www.ccextractor.org/gsoc2016.html#gettingaccepted
+19,Celluloid,"ruby, multi-threading, multi-core, zeromq, high-resolution timers",3,https://github.com/celluloid/GSoC/wiki/Ideas-List,https://github.com/celluloid/GSoC/wiki/Communication#internet-relay-chat--irc-
+20,Ceph,"c/c++, python, object-storage",4,http://ceph.com/gsoc2016/,http://ceph.com/resources/mailing-list-irc/
+21,CERN SFT,"c++, python, javascript, clang",10,http://ep-dep-sft.web.cern.ch/article/198146,http://ep-dep-sft.web.cern.ch/article/198146#contact
+22,Chapel,"python, chapel, c, c++, high performance computing",2,http://chapel.cray.com/gsoc/ideas.html,http://chapel.cray.com/developers.html
+23,CiviCRM,"php, javascript, mysql, angularjs, d3js",8,https://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2016,http://webchat.freenode.net/?channels=#civicrm
+24,Classical Language Toolkit,"python, javascript, java",2,https://github.com/cltk/cltk/wiki/Project-ideas,https://gitter.im/cltk/cltk
+25,CloudCV,"python, javascript, lua, caffe, torch",2,https://docs.google.com/document/d/1lhz6gOJiU3Yoo0rm0AeHmxrSZ32TllSKzy5zqje8_s4/edit?usp=sharing,https://gitter.im/batra-mlp-lab/CloudCV
+26,Computational Biology @ University of Nebraska-Lincoln,"webgl, javascript, mysql, react",5,http://helikarlab.org/GSoC2016.html,https://groups.google.com/d/forum/helikarlab-gsoc
+27,Computational Science and Engineering at TU Wien,"javascript, html, css, java, c++",10,http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2016.html,http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2016.html
+28,Copyleft Games,"python, opengl, c",2,http://gsoc.copyleftgames.org/,http://gsoc.copyleftgames.org/
+29,coreboot,"c, assembly, open hardware",3,https://www.coreboot.org/Project_Ideas,https://www.coreboot.org/IRC
+30,CVXPY,python,1,http://www.cvxpy.org/en/latest/ideas/index.html,http://www.cvxpy.org/en/latest/community/index.html
+31,D Foundation,"dlang, c++",4,http://wiki.dlang.org/GSOC_2016_Ideas,https://wiki.dlang.org/
+32,dbpediaspotlight,"java, scala, rdf, python, nosql",8,http://wiki.dbpedia.org/ideas/ideas/scope:all/sort:activity-desc/tags:gsoc/page:1/,http://wiki.dbpedia.org/gsoc2016
+33,Debian Project,"python, c, c++, ruby, django",20,https://wiki.debian.org/SummerOfCode2016/Projects,https://wiki.debian.org/IRC/
+34,Discourse,"ruby, ruby on rails, javascript, ember, docker",2,https://github.com/discourse/discourse/wiki/GSoC-2016-Ideas-List,https://github.com/discourse/discourse/wiki/GSoC-Contact
+35,Distributed and Unified Numerics Environment (DUNE),"c++, python, cmake",2,http://users.dune-project.org/projects/gsoc2016/wiki/Project_ideas,https://www.dune-project.org/mailinglists.html
+36,Django Software Foundation,"python, django",1,https://code.djangoproject.com/wiki/SummerOfCode2016,https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/
+37,Drupal,"php, symfony, sql, javascript, html5",9,https://groups.drupal.org/node/508466,http://drupal.org/irc#drupal-google
+38,Eclipse Foundation,"java, geospatial, c/c++",11,https://wiki.eclipse.org/Google_Summer_of_Code_2016_Ideas,https://wiki.eclipse.org/Google_Summer_of_Code
+39,Fedora Project,"python, flask, postgresql, html5, javascript",6,https://fedoraproject.org/wiki/Summer_coding_ideas_for_2016,https://fedoraproject.org/wiki/GSOC_Guide_students
+40,FFmpeg,"c, asm, git",7,https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2016,https://ffmpeg.org/contact.html#IRCChannels
+41,FOSDEM VZW,"ruby on rails, postgresql, git",1,http://fosdem.org/gsoc2016ideas,https://fosdem.org/2016/contact/
+42,FOSSASIA,"javascript, android, python, java, json api",18,http://labs.fossasia.org/ideas.html,http://fossasia-slack.herokuapp.com/
+43,Free and Open Source Silicon Foundation,"open hardware, fpga, compiler, python, javascript",3,http://fossi-foundation.org/gsoc16-ideas.html,http://opencores.org/or1k/OR1K:Community_Portal#IRC
+44,FreeBSD,"c/c++, clang, llvm, shell script, make",12,https://wiki.freebsd.org/SummerOfCodeIdeas,https://wiki.freebsd.org/SummerOfCodeIRC
+45,Freifunk,"openwrt, olsr, batman, c, lua",8,https://wiki.freifunk.net/ideas,http://irc.freifunk.net
+46,Gambit - Software Tools for Game Theory,javascript,3,http://www.maths.lse.ac.uk/Personal/stengel/gsoc/,mailto:gsoc-gambit@nash.lse.ac.uk
+47,Ganeti,"python, haskell, kvm, xen, virtualization",1,https://code.google.com/p/ganeti/wiki/SummerOfCode2016Ideas?ts=1455557646&updated=SummerOfCode2016Ideas,https://code.google.com/p/ganeti/#Contact_Information
+48,"Genes, Genomes and Variation","mysql, javascript, perl",2,http://www.ensembl.info/gsoc/,http://lists.ensembl.org/mailman/listinfo/dev
+49,Gentoo Foundation,"shell script, c/c++, python, perl, sql",5,https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2016/Ideas,https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2016/Application_Guidelines
+50,Git,"c, shell script, git",1,http://git.github.io/SoC-2016-Ideas/,http://git-scm.com/community
+51,GitHub,"git, atom, node.js, ruby, c#",4,https://github.com/github/mentorships/issues?q=is%3Aissue+is%3Aopen+label%3Aproject,https://gitter.im/github/mentorships
+52,Global Alliance for Genomics & Health,"python, java, protobuf, sql",3,https://docs.google.com/document/d/15yUku7fdR3x_nH3eziI3VgXzvkUQrcVeN7C4pwqk3nU/edit?usp=sharing,https://docs.google.com/document/d/1G9OG8Pcd3ar77jflrSWyPYyjU80XNAwGB7zUxFFS-vA/edit?usp=sharing
+53,GNOME,"c, python, javascript, gtk+",18,https://wiki.gnome.org/Outreach/SummerOfCode/2016/Ideas,https://wiki.gnome.org/Community/GettingInTouch/IRC
+54,gnss-sdr,"c/c++, c++11, c++14, gnss",3,http://gnss-sdr.org/documentation/google-summer-code-2016-ideas-list,http://lists.sourceforge.net/lists/listinfo/gnss-sdr-developers
+55,GNU Mailman,"python, email, django",3,http://wiki.list.org/DEV/Google%20Summer%20of%20Code%202016,http://wiki.list.org/DEV/Google%20Summer%20of%20Code%202016#Contacting_us
+56,GNU Octave,"hg, c++",5,http://wiki.octave.org/Summer_of_Code_Project_Ideas,http://webchat.freenode.net/?channels=octave&uio=MT1mYWxzZSYyPXRydWUmMTI9dHJ1ZQda
+57,GNU Project,"posix, c, lisp, python, eiffel",15,http://www.gnu.org/software/soc-projects/ideas-2016.html,https://lists.gnu.org/mailman/listinfo/summer-of-code
+58,GNU Radio,"c++, python, software radio, dsp, rf",2,http://gnuradio.org/redmine/projects/gnuradio/wiki/GSoCIdeas,http://gnuradio.org/redmine/projects/gnuradio/wiki/IRC
+59,GPAC,"mp4, dash, mp4box, javascript, c++",1,http://gpac.io/jobs/google-summer-of-code-ideas/,mailto:gsoc@gpac.io
+60,Green Navigation,"javascript, postgresql, polymer, go, electromobility",3,https://github.com/Greennav/greennav.github.io/blob/master/wiki/Project-Ideas/Project-Ideas.md,https://groups.google.com/d/forum/greennav
+61,gRPC,"distributed systems, networking, micro-services, scalability, http/2",2,https://github.com/grpc/grpc/blob/master/summerofcode/ideas.md,http://webchat.freenode.net/?channels=grpc
+62,Health Information Systems Programme,"java, android, javascript, reactjs, gradle",6,https://www.dhis2.org/gsoc2016,http://irc.freenode.net/#dhis
+63,Homebrew,"ruby, git, osx",4,https://github.com/Homebrew/Google-Summer-of-Code#ideas,https://groups.google.com/forum/#!forum/homebrew-discuss
+64,Inclusive Design Institute,"javascript, jquery, html5, css, node.js",4,https://wiki.fluidproject.org/display/fluid/Google+Summer+of+Code+2016+with+the+Fluid+Project,https://wiki.fluidproject.org/display/fluid/IRC+Channel
+65,Indic Project,"android, python, javascript, ruby on rails, c++",7,http://wiki.smc.org.in/GSoC/2016/Project_ideas,http://wiki.smc.org.in/IRC
+66,Inkscape,"c++, python, svg, css, gtk+",2,http://wiki.inkscape.org/wiki/index.php/Google_Summer_of_Code#Suggested_Project_Ideas,https://inkscape.org/en/community/discussion/
+67,International Neuroinformatics Coordinating Facility,"c++, python, gpu, javascript, java",12,http://incf.org/gsoc/2016,mailto:gsoc@incf.org
+68,Java Pathfinder Team,"java, jvm, android, distributed systems",10,https://jpf.byu.edu/gsoc16/projects/projects.html,https://webchat.freenode.net/
+69,JBoss Community,"java, android, ide, aerogear, asciidoctor",9,https://developer.jboss.org/wiki/JBossCommunityGoogleSummerOfCode2016Ideas,https://developer.jboss.org/wiki/JBossGSoCContactInformation
+70,Jenkins Project,"java, groovy, jenkins, css, html",1,https://wiki.jenkins-ci.org/display/JENKINS/Google+Summer+Of+Code+2016,https://jenkins.io/content/chat/
+71,Joomla!,"php, css, html, javascript, jquery",5,https://docs.joomla.org/GSOC_2016_Project_Ideas,http://irc.lc/freenode/joomla/
+72,jQuery Foundation,"javascript, html5, css, jquery",7,https://github.com/jquery/gsoc/wiki/GSoC-2016-Ideas-List,http://irc.jquery.org/
+73,JSK Robotics Laboratory,"euslisp, openhrp, openrtm, ros",0,https://sites.google.com/a/jsk.imi.i.u-tokyo.ac.jp/gsoc/2016,https://gitter.im/euslisp/jskeus
+74,KDE,"qt, cmake, c++, php",32,https://community.kde.org/GSoC/2016/Ideas,https://userbase.kde.org/IRC_Channels#Community.2FSupport
+75,KolibriOS,"fasm, flat assembler, x86 assembly, i386, i586",4,http://wiki.kolibrios.org/wiki/Google_Summer_of_Code_2016,http://webchat.freenode.net/?channels=kolibrios
+76,LabLua,"lua, luarocks, elasticsearch, netbsd, céu",8,http://www.lua.inf.puc-rio.br/gsoc/ideas2016.html,http://groups.google.com/group/labluagsoc
+77,LibreOffice,"c++, python, java, android, opengl",9,https://wiki.documentfoundation.org/Development/GSoC/Ideas,https://wiki.documentfoundation.org/Website/IRC
+78,Libvirt,"c, qemu, xen, containers",4,http://wiki.libvirt.org/page/Google_Summer_of_Code_2016,http://libvirt.org/contact.html#irc
+79,Liquid Galaxy Project,"javascript, ros, gis, cesium",4,https://github.com/LiquidGalaxy/liquid-galaxy/wiki/GSoC2016Ideas,https://groups.google.com/forum/#!forum/liquid-galaxy
+80,lowRISC,"verilog, fpga, chisel, c++, linux",4,http://www.lowrisc.org/docs/gsoc-2016-ideas/,http://www.lowrisc.org/community/
+81,MariaDB,"mysql, mariadb, c, perl",5,https://mariadb.com/kb/en/mariadb/google-summer-of-code-2016/,https://mariadb.com/kb/en/meta/irc/
+82,Matrix.org,"react, android, ios, golang, python",2,https://github.com/matrix-org/GSoC/blob/master/IDEAS.md,https://github.com/matrix-org/GSoC/blob/master/README.md
+83,"MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano",c++,3,https://www.mbdyn.org/?Developers_corner___TODO_list,https://lists.mbdyn.org/mailman/listinfo/mbdyn-users
+84,McGill Space Institute,"python, sql, databases, big data",3,http://msi.mcgill.ca/Summer_of_Code.html,mailto:kelly.lepo@mcgill.ca
+85,MetaBrainz Foundation,"python, perl, postgresql, javascript",4,https://wiki.musicbrainz.org/Development/Summer_of_Code/2016,https://musicbrainz.org/doc/Communication/IRC
+86,Mifos Initiative,"java, javascript, angularjs, android, mysql",6,https://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2016+Ideas,https://gitter.im/openMF/mifos
+87,MIT Media Lab,"java, html/javascript, android",5,https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-16,mailto:appinventor@mit.edu
+88,Mixxx DJ Software,"c++11, c++, qt, audio, opengl",2,http://mixxx.org/wiki/doku.php/gsoc2016ideas,http://mixxx.org/irc
+89,mlpack: a scalable C++ machine learning library,c++,6,https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas,http://webchat.freenode.net/?channels=mlpack
+90,Mobile Robot Programming Toolkit (MRPT),"c++, ros, opencv, cmake, qt",3,https://github.com/MRPT/mrpt/wiki/Ideas-page-for-MRPT-Google-Summer-of-Code-2016,https://gitter.im/MRPT/mrpt
+91,ModSecurity,"waf, web application firewall",3,https://github.com/SpiderLabs/ModSecurity/wiki/Ideas-for-Google-Summer-of-Code-2016,https://github.com/SpiderLabs/ModSecurity/wiki/ModSecurity-Frequently-Asked-Questions-(FAQ)#open-sourcefree-help
+92,Moodle,"php, jquery, mysql, postgresql, javascript",4,https://docs.moodle.org/dev/Projects_for_new_developers,https://docs.moodle.org/dev/Chatrooms
+93,MovingBlocks,"java, lwjgl, opengl, blender, gradle",3,https://github.com/MovingBlocks/Terasology/wiki/GSOC,https://github.com/MovingBlocks/Terasology/wiki/Using-IRC
+94,Mozilla,"c++, python, javascript, html, rust",13,https://wiki.mozilla.org/Community:SummerOfCode16,https://wiki.mozilla.org/IRC
+95,MuseScore,"qt, c/c++, qml",3,https://musescore.org/en/developers-handbook/google-summer-code/ideas-2016,https://musescore.org/en/development#Get-help-from-other-developers
+96,National Resource for Network Biology (NRNB),"c++, java, javascript, php, python",15,https://github.com/nrnb/GoogleSummerOfCode/issues,https://groups.google.com/forum/?fromgroups#!forum/cytoscape-discuss
+97,Netfilter project,"firewall, linux kernel, networking",3,http://people.netfilter.org/pablo/nf-ideas-2016.txt,https://lists.netfilter.org
+98,Nmap Security Scanner,"c/c++, lua, python, c, c++",5,https://nmap.org/soc/,http://seclists.org/nmap-dev/
+99,NumFOCUS,"python, javascript, julia, r",7,https://github.com/numfocus/gsoc/blob/master/2016/ideas-list.md,https://groups.google.com/a/numfocus.org/forum/#!forum/gsoc
+100,Open Bioinformatics Foundation,"perl, python, ruby, java, haskell",7,http://obf.github.io/GSoC/ideas/,http://obf.github.io/GSoC/contact/
+101,Open Chemistry,"c++, opengl, python, javascript, webgl",2,http://wiki.openchemistry.org/GSoC_Ideas_2016,http://www.openchemistry.org/mailing-lists/
+102,Open Detection,"c/c++, cmake, opencv, pcl, caffe",2,http://opendetection.com/idea_list_gsoc2016.html,https://groups.google.com/forum/#!forum/opendetection/
+103,Open Ephys,"c++, juce",2,https://open-ephys.atlassian.net/wiki/display/OEW/Google+Summer+of+Code,http://www.open-ephys.org/contact
+104,Open Genome Informatics,"python, java, html/javascript, nodejs, gwt",6,http://gmod.org/wiki/GSOC_Project_Ideas_2016,http://irc.lc/freenode/genomeinformatics/
+105,Open Source Robotics Foundation,"ros, gazebo",7,http://wiki.osrfoundation.org/gsoc16,https://botbot.me/freenode/ros/
+106,OpenAstronomy,"python, julia, c, numpy",7,http://openastronomy.org/gsoc/gsoc2016/ideas.html,http://openastronomy.org/contact/
+107,OpenCV,"c++, python, machine learning, computer vision",11,http://code.opencv.org/projects/opencv/wiki/GSoC_2016,http://code.opencv.org/projects/opencv/wiki/GSoC_2016
+108,OpenKeychain (OpenPGP for Android),"android, openpgp",2,https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code-2016,https://kiwiirc.com/client/irc.freenode.net/openkeychain
+109,OpenMRS,"java, groovy, html5, xml, hibernate",9,http://om.rs/gsoc,https://wiki.openmrs.org/display/IRC/Home
+110,OpenStreetMap,"postgis, java, ruby, javascript, opengl",4,http://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2016/Project_Ideas,http://wiki.openstreetmap.org/wiki/IRC
+111,openSUSE,"ruby on rails, angularjs, docker, linux, ruby",6,http://101.opensuse.org/gsoc/,https://en.opensuse.org/openSUSE:Communication_channels
+112,Oppia Foundation,"javascript, app engine, python, css, angularjs",1,https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2016#oppias-project-ideas,https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2016#joining-oppias-gitter
+113,Orange – Data Mining Fruitful & Fun,"python, cython, qt, machine learning",5,https://github.com/biolab/orange3/wiki/Google-Summer-of-Code,https://github.com/biolab/orange3/wiki/Google-Summer-of-Code#contact
+114,OSGeo - The Open Source Geospatial Foundation,"python, sql, c, ogc standards, c++",20,https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2016_Ideas,http://wiki.osgeo.org/wiki/IRC
+115,OSU Open Source Lab,"python, rest, javascript, ruby",1,http://wiki.osuosl.org/gsoc/ideas2016.html,http://wiki.osuosl.org/gsoc/index.html#student-and-prospective-applicant-information
+116,OWASP Foundation,"python, php, javascript, java, html",5,https://www.owasp.org/index.php/GSOC2016_Ideas,https://www.owasp.org/index.php/GSoC#Getting_in_touch
+117,ownCloud,"javascript, php, css, html, sql",2,https://github.com/owncloud/core/wiki/Google-Summer-of-Code#2016--current,https://owncloud.org/contribute/
+118,P2PSP.org,"python, c++, webrtc, android, ios",2,http://p2psp.org/en/news/72-gsoc-2016-ideas-page,https://gitter.im/P2PSP/p2psp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+119,Peragro,"python, blender, javascript, celery, django",0,https://github.com/peragro/peragro/wiki/GSoC-Ideas,http://www.peragro.org/#contact
+120,Performance Co-Pilot,"golang, ruby, java, linux kernel, javascript",2,http://pcp.io/gsoc/2016/ideas.html,http://pcp.io/community.html
+121,Physical Web Project,"internet of things, beacons, python, arduino",3,http://google.github.io/physical-web/cookbook/,mailto:physicalwebproject@gmail.com
+122,PLASMA-UMass,"javascript, c/c++, scala, go",1,https://github.com/plasma-umass/GSoC/wiki/Idea-List-for-Google-Summer-of-Code-2016,https://github.com/plasma-umass/GSoC/wiki/Community
+123,Plone Foundation,"python, zope, javascript, rest, nosql",3,https://plone.org/events/summer-of-code/2016,https://plone.org/support/chat
+124,Portland State University,"open hardware, language-agnostic",6,http://wiki.cs.pdx.edu/psu-gsoc/ideas.html,mailto:psu-gsoc-2016@svcs.cs.pdx.edu
+125,PRISM Model Checker,"java, c++",5,http://www.prismmodelchecker.org/gsoc/,https://groups.google.com/forum/?fromgroups#!forum/prismmodelchecker-gsoc
+126,Public Lab,"javascript, ruby on rails, leaflet, webrtc",5,https://publiclab.org/wiki/gsoc-ideas#Ideas+list,https://publiclab.org/chat
+127,Python Software Foundation,"python, mercurial",49,https://wiki.python.org/moin/SummerOfCode/2016,https://wiki.python.org/moin/SummerOfCode/irc
+128,QEMU,"c, assembly, kvm",6,http://qemu-project.org/Google_Summer_of_Code_2016,http://wiki.qemu.org/Links#Development
+129,R project for statistical computing,"r, c, c++, fortran",22,https://github.com/rstats-gsoc/gsoc2016/wiki/table-of-proposed-coding-projects,https://github.com/rstats-gsoc/gsoc2016/wiki
+130,radare,"c, rust",3,http://radare.org/gsoc,http://radare.org/r/me.html
+131,ReactOS,"c/c++, c",4,https://www.reactos.org/wiki/Google_Summer_of_Code_2016_Ideas,https://reactos.org/irc
+132,Red Hen Lab,"high performance computing, machine learning, opencv, audio procesing, multimodal analysis",5,https://sites.google.com/site/distributedlittleredhen/summer-of-code-2016---ideas-page,https://sourceforge.net/p/redhenlab/discussion/gsoc2016
+133,Robocomp,"c++, python, zeroc ice, cmake, gnu/linux",5,https://robocomp.github.io/website/gsoc-2016-ideas/,https://gitter.im/orgs/robocomp/rooms
+134,RTEMS Project,"c, python, waf, embedded systems",5,https://devel.rtems.org/wiki/Developer/OpenProjects,https://devel.rtems.org/wiki/Developer/IRC
+135,Ruby,ruby,12,https://github.com/rubygsoc/rubygsoc/wiki/Ideas%20List,https://www.ruby-lang.org/en/community/
+136,Ruby Science Foundation,"ruby, c programming, jruby, c/c++",4,https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2016-Ideas,http://sciruby.com/#irc
+137,Sage Mathematical Software System,"python, javascript, cython, c++",5,https://wiki.sagemath.org/GSoC/2016,https://groups.google.com/forum/#!forum/sage-gsoc
+138,Scala,"scala, jvm",9,http://scala-lang.org/gsoc/2016.html,https://groups.google.com/d/forum/scala-language
+139,Scilab Enterprises,"scilab, c++, java, c, fortran",5,https://wiki.scilab.org/GSoC_project_proposal,http://www.scilab.org/resources/user_community/irc
+140,ScummVM,"c++, sdl, opengl, assembly",3,http://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Ideas_2016,http://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Contact
+141,Shogun Machine Learning Toolbox,"c++, python, swig, cmake",3,https://github.com/shogun-toolbox/shogun/wiki/Google-Summer-of-Code-2016-Projects,http://shogun.ml/page/contact/contacts
+142,Sigmah,"java, gwt",1,http://wiki.sigmah.org/doku.php?id=ssoc:ideas4gsoc2016,http://wiki.sigmah.org/doku.php?id=contributorguide:projectcommunitycommunication#sigmah_irc_channelwhere_we_can_chat_live
+143,Soletta Project,"c, python, javascript, networking, machine learning",3,https://github.com/solettaproject/soletta/wiki/Ideas-for-Google-Summer-of-Code-2016,https://solettaproject.org/
+144,Stony Brook University Biomedical Informatics,"medical imaging, bioinformatics, hadoop, big data",4,https://goo.gl/Iljtps,https://groups.google.com/forum/#!forum/stonybrookbmigsoc
+145,strace,"linux, c, git, shell script, make",4,https://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2016/,https://lists.sourceforge.net/lists/listinfo/strace-devel
+146,Sugar Labs,"python, javascript, gtk+",5,https://wiki.sugarlabs.org/go/Summer_of_Code/2016,http://chat.sugarlabs.org:9090/
+147,Sustainable Computing Research Group ( SCoRe ),"java, android, hadoop, python, golang",7,http://www.scorelab.org/gsoc-2016/,http://www.scorelab.org/IRC.html
+148,SymPy,"python, c++",7,https://github.com/sympy/sympy/wiki/GSoC-2016-Ideas,https://gitter.im/sympy/sympy
+149,"Systers, an Anita Borg Institute Community","python, android, ios, mysql, ruby on rails",19,https://github.com/systers/ossprojects/wiki/GSoC-2016,http://systers.io/slack-systers-opensource/
+150,TARDIS-SN,"python, cython, c",3,http://opensupernova.org/gsoc2016/doku.php?id=ideas_page,https://gitter.im/tardis-sn/tardis
+151,TEAMMATES @ National University of Singapore,"java, app engine, javascript, css, html",7,http://tinyurl.com/teammates-ideas,http://tinyurl.com/teammates-gsoc
+152,The Apertium Project,"c++, python, perl, xml, finite-state technologies",11,http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code,http://wiki.apertium.org/wiki/IRC
+153,The Center for Connected Learning and Computer-Based Modeling,"javascript, scala, java, html5, css",1,https://github.com/NetLogo/NetLogo/wiki/Google-Summer-of-Code-Ideas-List,mailto:feedback@ccl.northwestern.edu
+154,The Honeynet Project,"android, machine learning, honeypots, python, html/javascript",11,http://honeynet.org/gsoc/ideas,http://www.honeynet.org/gsoc
+155,The Julia Language,"julia, atom, c++, javascript, c",10,http://julialang.org/soc/ideas-page,http://julialang.org/community/
+156,The Linux Foundation,"c, c++, python, mysql, cups",11,https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2016,https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2016#contact
+157,The LLVM Compiler Infrastructure,"c, c++, llvm, clang",7,http://llvm.org/OpenProjects.html,http://llvm.org/docs/#irc
+158,The Monarch Initiative,"semantic web, javascript, text mining, named entity recognition, ontologies",1,https://docs.google.com/document/d/1ajvQse1URKcq0vKsw0RxTemU-MJ1ss8lV-a2kTNwUI0/edit,mailto:info@monarchinitiative.org
+159,The NetBSD Foundation,"bsd, security, networking, c programming, kernel",4,http://wiki.netbsd.org/projects/gsoc,http://www.netbsd.org/community/
+160,The STE||AR Group,"parallel processing, high performance computing, c++, cuda, opencl",4,https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2016-Project-Ideas,http://stellar.cct.lsu.edu/support/
+161,The syslog-ng project,"c, java, python, big data, rust",4,https://github.com/balabit/syslog-ng/wiki/GSoC2016-Idea-&-Project-list,https://gitter.im/balabit/syslog-ng/
+162,The Tor Project,"c, javascript, golang, python, browser extensions",5,https://www.torproject.org/about/gsoc,https://www.torproject.org/about/contact#irc
+163,The Wine Project,"c, opengl, directx, x11, win32",2,http://wiki.winehq.org/SummerOfCode,https://www.winehq.org/irc
+164,Timelab Technologies Ltd.,"python, javascript",3,http://timelabtechnologies.com/ideas.html,mailto:gsoc@timelabtechnologies.com
+165,TimVideos.us,"vhdl, verilog, fpga, python, c",2,https://code.timvideos.us/contribute/,http://webchat.freenode.net/?channels=timvideos
+166,Unitex/GramLab,"java, c++",2,http://unitexgramlab.org/index.php?page=17,http://unitexgramlab.org/index.php?page=5
+167,"Urban Energy Systems Laboratory, Empa","python, milp, gis",3,https://hues.empa.ch/index.php/GSoC_Projects,mailto:andrew.bollinger@empa.ch
+168,Vert.x,"java, reactive, javascript, groovy, micro-services",3,http://vertx.io/gsoc,http://freenode.net/
+169,VideoLAN / VLMC Project,"opengl, c++, c, assembly, qt",3,https://wiki.videolan.org/Google_Summer_of_Code_2016/,http://www.videolan.org/support/
+170,vitrivr,"java, web, computer vision, machine learning, databases",3,http://www.vitrivr.org/gsoc.html#ideas,http://www.vitrivr.org/gsoc.html#irc
+171,Wayland,"opengl, wayland, c, xml, kms",1,https://phabricator.freedesktop.org/w/wayland/gsoc_2016/ideas/,https://phabricator.freedesktop.org/w/wayland/gsoc_2016/#talk-to-us
+172,Wikimedia Foundation,"php, javascript, html, css, jquery",6,https://phabricator.wikimedia.org/tag/possible-tech-projects/,http://webchat.freenode.net/?channels=wikimedia-dev
+173,WSO2,"middleware, java, soa, distributed computing, web services",11,https://docs.wso2.com/display/GSoC/Project+Proposals+for+2016,https://docs.wso2.com/display/GSoC/Contact+Us
+174,X.Org Foundation,"c, c++, opengl, vulkan, opencl",2,http://www.x.org/wiki/SummerOfCodeIdeas/,https://webchat.freenode.net/?channels=dri-devel
+175,Xapian Search Engine Library,"c++, unicode, swig, android, golang",5,https://trac.xapian.org/wiki/GSoCProjectIdeas,https://trac.xapian.org/wiki/GSoC_IRC
+176,XWiki,"java, javascript, html5, css3, velocity",0,http://gsoc.xwiki.org/,http://dev.xwiki.org/xwiki/bin/view/Community/IRC
+177,Zulip Open Source Project,"python, javascript, django, android, ios",3,https://github.com/zulip/zulip.github.io/blob/master/gsoc-ideas.md,https://groups.google.com/forum/#!forum/zulip-devel
