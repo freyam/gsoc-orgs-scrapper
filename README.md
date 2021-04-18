@@ -1,1 +1,1 @@
-# gsoc-orgs-scrapper
+# GSoC Organizations Scrapper
