@@ -1,0 +1,203 @@
+,Organizations,Technologies,Slots,Ideas Page,Contact
+0,52°North GmbH," javascript, java, ogc standards, web services,  python",3,https://wiki.52north.org/Projects/GSoC2021ProjectIdeas,https://wiki.52north.org/Projects/GSoC#Contact
+1,AboutCode,"python, django, javascript, postgres",4,https://github.com/nexB/aboutcode/wiki/GSOC-2021,https://gitter.im/aboutcode-org/discuss
+2,Accord Project,"javascript, react, coq, ocaml, compiler",3,https://github.com/accordproject/techdocs/wiki/Google-Summer-of-Code-2021,https://accord-project-slack-signup.herokuapp.com/
+3,AerospaceResearch.net,"python, sqlite, raspberry pi, machine learning, sdr",6,https://aerospaceresearch.net/?page_id=2156,https://aerospaceresearch.zulipchat.com/
+4,AFLplusplus,"fuzzing, instrumentation, c/c++, rust, llvm",2,https://github.com/AFLplusplus/AFLplusplus/blob/dev/docs/ideas.md,https://github.com/AFLplusplus/AFLplusplus/issues/783
+5,Android Graphics Tools Team,"c++, spir-v, webgpu, opengl,  java",3,https://github.com/google/graphicsfuzz/blob/master/docs/summer-of-code-ideas/2021.md,mailto:android-graphics-tools@google.com
+6,AnkiDroid,"java,  javascript, gradle, android",2,https://docs.google.com/document/d/14wAQ9rsSj8CDbwi-hcnFKxO3uE8atq2QDwDrBTRM3BU/edit?usp=sharing,https://discord.gg/JXaqQDp
+7,AOSSIE,"scala, javascript, machine learning, android, ios",11,https://aossie.gitlab.io/pages/ideas.html,https://gitter.im/aossie/home
+8,Apertium,"c++,  python, bash, xml,  javascript",10,http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code,http://wiki.apertium.org/wiki/IRC
+9,apertus° Association,"fpga, linux, embedded, vhdl, c/c++",5,https://lab.apertus.org/project/view/20/,https://www.apertus.org/irc-chat
+10,ArduPilot,"drones, robotics, c/c++, linux,  python",3,https://ardupilot.org/dev/docs/gsoc-ideas-list.html,https://ardupilot.org/discord
+11,Audacity,c++,2,https://wiki.audacityteam.org/wiki/GSoC_Ideas_2021,https://discord.gg/QtkZDUEphQ
+12,BeagleBoard.org Foundation,"risc-v, linux, arm, dsp, fpga",6,https://bbb.io/gsocideas,https://bbb.io/gsocchat
+13,Bench-Routes," golang, docker, react",2,https://github.com/bench-routes/bench-routes/wiki/GSoC-2021-Idea-List,https://gitter.im/bench-routes/community
+14,Blender Foundation,"c, c++, python, opengl, vulkan",8,https://wiki.blender.org/wiki/GSoC/Ideas_Suggestions,https://blender.chat/channel/blender-coders
+15,Boost C++ Libraries,"c++, c++11, c++14, c++17, c++20",8,https://github.com/boostorg/wiki/wiki/Google-Summer-of-Code:-2021,https://lists.boost.org/mailman/listinfo.cgi/boost
+16,BRL-CAD,"opencl, opengl, c/c++, python, scripting",6,https://github.com/opencax/GSoC,https://brlcad.zulipchat.com
+17,caMicroscope," javascript,  python, medical imaging, tensorflow, mongodb",5,https://github.com/camicroscope/GSOC,http://bit.ly/camicroscope
+18,Casbin," golang, java,  javascript,  python,  nodejs",9,https://github.com/casbin/SummerOfCode2021,https://casbin.org/en/help
+19,CASTOR,"java, scala, bytecode",2,https://docs.google.com/document/d/1zCRSd0M4rVbyyDqUPDTTu0FihMuyotTZCTaw-48ort0/edit,https://www.castor.kth.se/stay-tuned/
+20,CCExtractor Development,"rust, c, python, flutter",9,https://ccextractor.org/public:gsoc:ideas_page_for_summer_of_code_2021,https://www.ccextractor.org/public:general:support
+21,"Center for Research in Open Source Software, UC Santa Cruz","c/c++, c++17, arrow, ceph, robotics",5,https://uccross.github.io/projects,https://gitter.im/uccross/gsoc
+22,Ceph," c++,  python, angular,  javascript,  typescript",7,https://ceph.io/contribute/google-summer-of-code/,https://ceph.io/irc/
+23,CERN-HSF,"c/c++,  python, data analysis, concurrency, container orchestration",25,http://hepsoftwarefoundation.org/activities/gsoc.html,https://gitter.im/HSF/HSF-GSoC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+24,CGAL Project,"c/c++, qt",5,https://github.com/CGAL/cgal/wiki/Project-Ideas,https://www.cgal.org/mailing_list.html
+25,CHAOSS Project,"python, vue, elk, nltk, fossology",6,https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md,http://chaoss.community/participate/
+26,Chapel,"chapel, high performance computing, c, c++, python",3,https://chapel-lang.org/gsoc/ideas.html,https://chapel-lang.org/developers.html
+27,Checkstyle,"java,  antlr",2,https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2021-Project-Ideas,https://gitter.im/checkstyle/checkstyle
+28,Chromium,"c++, java, git,  javascript, python",9,https://docs.google.com/document/d/1x2ELJVSEUmiIzElcVGy5ScWoi4qRfgu2Hf1JAEYxrUg/edit?usp=sharing,https://groups.google.com/u/1/a/chromium.org/g/chromium-gsoc
+29,Cilium,"ebpf, kubernetes, c, go, linux",3,https://docs.google.com/document/d/1eRsslqZWDYiIm4A2JZbgP0lL3EdPbHaBH3a1yl3ieEU,https://docs.cilium.io/en/latest/community/#slack
+30,CircuitVerse.org,"rails, canvas, machine learning, javascript, internationalization",6,https://github.com/CircuitVerse/CircuitVerse/wiki/GSoC'21-Project-List,https://circuitverse.org/slack
+31,CiviCRM LLC," mysql, php, angular",4,https://lab.civicrm.org/community/gsoc/-/blob/master/projects.md,https://chat.civicrm.org
+32,CloudCV," python, django, aws, docker, angular",3,https://gsoc.cloudcv.org,https://gitter.im/Cloud-CV/
+33,CNCF,"kubernetes, go, rust",16,https://github.com/cncf/mentoring/blob/master/summerofcode/2021.md,http://slack.cncf.io
+34,coala,"python 3, django,  antlr, haskell, docker",4,https://projects.coala.io,https://coala.io/chat
+35,Continuous Delivery Foundation,"jenkins, tekton, spinnaker, ortelius, screwdriver.cd",6,https://github.com/cdfoundation/soc,https://bit.ly/3bfxmFW
+36,CRIU,"linux kernel, c,  python",3,https://criu.org/Google_Summer_of_Code_Ideas,https://lists.openvz.org/mailman/listinfo/criu
+37,Cuneiform Digital Library Initiative (CDLI),"php, mysql,  python,  javascript, java",7,https://github.com/cdli-gh/Framework/wiki/Google-Summer-of-Code-GSoC-2021-Cuneiform-Digital-Library-Initiative-(CDLI)-ideas-list,https://github.com/cdli-gh/Framework/wiki/GSoC-Contact
+38,Dart,"dart, flutter, programming-language",3,https://github.com/dart-lang/sdk/wiki/Dart-GSoC-2021-Project-Ideas,https://groups.google.com/g/dart-gsoc
+39,DBpedia,"rdf, scala, sparql,  python, javascript",10,https://forum.dbpedia.org/tags/c/projects/gsoc/8/gsoc2021-ideas,https://dbpedia.slack.com/
+40,Debian,"git, python,  javascript, c/c++, irc",5,https://wiki.debian.org/SummerOfCode2021/Projects,https://wiki.debian.org/IRC
+41,DeepPavlov,"python, docker, python deep learning frameworks, tensorflow, pytorch",3,https://deeppavlov.ai/gsoc_2021,https://t.me/DeepPavlovDreamDiscussions
+42,"Department of Biomedical Informatics (BMI), Emory University School of Medicine","python, java, deeplearning, medical imaging, tensorflow",6,https://github.com/NISYSLAB/Emory-BMI-GSoC/,http://bit.ly/emory-bmi
+43,Digital Impact Alliance (DIAL) at UN Foundation,"javascript, android, python, linux, many more",12,https://hub.osc.dial.community/gsoc,https://hub.osc.dial.community/gsoc
+44,Django Software Foundation,"python, django",4,https://code.djangoproject.com/wiki/SummerOfCode2021,https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/
+45,Elm Tooling,"elm, functional programming, typescript",2,https://github.com/elm-tooling/gsoc-projects/blob/master/readme.md,https://elmlang.herokuapp.com/
+46,FFmpeg,"c, assembler",5,https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2021,https://ffmpeg.org/contact.html#IRCChannels
+47,Fortran-lang,"fortran,  python, c/c++, compiler, llvm",5,https://github.com/fortran-lang/fortran-lang.org/wiki/GSoC-2021-Project-ideas,https://fortran-lang.discourse.group/
+48,FOSSology,"php, c/c++,  javascript, postgresql,  python",7,https://github.com/fossology/fossology/wiki/Google-Summer-of-Code-Proposals-2021,https://join.slack.com/t/fossology/shared_invite/enQtNzI0OTEzMTk0MjYzLTYyZWQxNDc0N2JiZGU2YmI3YmI1NjE4NDVjOGYxMTVjNGY3Y2MzZmM1OGZmMWI5NTRjMzJlNjExZGU2N2I5NGY
+49,FrameNet Brasil (UFJF),"php,  mysql,  javascript,  python",1,http://www.ufjf.br/framenetbr-eng/summer-of-code/,https://framenetbrgsoc.slack.com/
+50,Free and Open Source Silicon Foundation,"verilog, compiler, risc-v, web development, jenkins",11,https://www.fossi-foundation.org/gsoc21-ideas,https://gitter.im/librecores/Lobby
+51,FreeBSD Project,"c/c+, llvm, shell script, assembly, make",5,https://wiki.freebsd.org/SummerOfCodeIdeas,https://wiki.freebsd.org/SummerOfCode/IRC
+52,FreeType,c,1,https://www.freetype.org/gsoc.html,https://www.freetype.org/gsoc.html
+53,freifunk,"rust, c/c++, json,  python, shell",7,https://projects.freifunk.net,https://matrix.to/#/!DmXQbxcSxGYgXDYrBs:bau-ha.us?via=bau-ha.us
+54,FRRouting,"c, linux, linux kernel, networking, routing",1,https://frrouting.github.io/frr-gsoc/year-2021/,https://frrouting.github.io/frr-gsoc/
+55,Genome Assembly and Annotation,"python, rust, pytorch,  javascript,  mysql",3,http://www.ensembl.info/about/student-projects/,mailto:helpdesk@ensembl.org
+56,Gentoo Foundation,"shell, bash, c/c++, python, linux",2,https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2021/Ideas,https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2021/Application_Guidelines
+57,GeomScale,"c++,  python, r, jupyter, github-actions",5,https://github.com/GeomScale/gsoc2021/wiki/table-of-proposed-coding-projects,https://gitter.im/GeomScale/community
+58,GFOSS - Open Technology Alliance,"python,  javascript,  mysql, python deep learning frameworks, perl",9,https://ellak.gr/wiki/index.php?title=Google_Summer_of_Code_2021_proposed_ideas,https://ellak.gr/wiki/index.php?title=How_to_Join_GSOC_Matrix_Server
+59,Git,"c language, shell script, git",2,https://git.github.io/SoC-2021-Ideas/,https://git-scm.com/community
+60,GitLab,"ruby, git, ci, devops,  golang",4,https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/gitlab-gsoc-2021/-/issues,https://about.gitlab.com/community/contribute/#getting-help
+61,Global Alliance for Genomics and Health,"java,  python,  spring, sql, hl7 fhir",7,https://docs.google.com/document/d/1Ep7aoOuQD2B5pWCG_bVANb8JVHZ2SoNDa9BJARhv_e0,mailto:gsoc@ga4gh.org
+62,GNOME Foundation,"gtk, python, c, javascript, rust",12,https://wiki.gnome.org/Outreach/SummerOfCode/2021/Ideas,https://wiki.gnome.org/Community/GettingInTouch/IRC
+63,GNSS-SDR,"c++11, c++14, c++17, c++20, gnss",1,https://gnss-sdr.org/google-summer-code-2021-ideas-list/,http://lists.sourceforge.net/lists/listinfo/gnss-sdr-developers
+64,GNU Compiler Collection (GCC),"c/c++, gnu autotools, gnu make",3,https://gcc.gnu.org/wiki/SummerOfCode,https://gcc.gnu.org/wiki/GCConIRC
+65,GNU Mailman Project,"python, django, restful api, sqlalchemy",0,https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202021,https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202021#Contacting_uss
+66,GNU Octave,"c++, hg",1,https://wiki.octave.org/Summer_of_Code_-_Getting_Started#Suggested_projects,https://octave.discourse.group/
+67,GNU Radio,"c++, python, qt",1,https://wiki.gnuradio.org/index.php/GSoCIdeas,https://www.gnuradio.org/blog/2020-04-27-moving-to-the-matrix/
+68,Godot Engine,"c/c+, opengl, vulkan, gdscript",5,https://github.com/godotengine/godot-roadmap/blob/master/GSoC/GSoC-2021.md,https://chat.godotengine.org
+69,Google FHIR SDK,"fhir,  android,  kotlin, sqlite, materialui",5,https://github.com/google/android-fhir/wiki/GSoC-Project-Ideas,https://github.com/google/android-fhir
+70,gprMax,"python, cuda, openmp, cython, mpi",4,https://github.com/gprMax/gprMax/blob/master/gsoc/project-ideas-2021.md,http://www.gprmax.com/contact.shtml
+71,GRR Rapid Response,"python 3, angular, typescript, materialui, backend",0,https://github.com/google/grr/blob/master/gsoc_2021.md,https://grr-doc.readthedocs.io/en/latest/
+72,gVisor,"golang, linux, posix, c/c++",1,http://gvisor.dev/community/gsoc_2021,https://gitter.im/gvisor/community
+73,Haiku,"c++,  bsd unix,  posix , virtualization",3,https://www.haiku-os.org/community/gsoc/2021/ideas,https://www.haiku-os.org/community/irc
+74,Halide,"llvm,  c++",2,https://github.com/halide/Halide/wiki/Google-Summer-of-Code-2021,https://gitter.im/halide/Halide
+75,Haskell.org,"haskell, ghc, compiler",10,https://summer.haskell.org/ideas.html,https://summer.haskell.org/contact.html
+76,Hydra Ecosystem,"postgresql, docker,  javascript, redis, python",2,https://www.hydraecosystem.org/gsoc-21,https://join.slack.com/t/hydraecosystem/shared_invite/zt-ly4j3hg3-gVhJxgc6ykpGrel_N4Xvvg
+77,INCF,"python, c/c++, tensorflow, java,  javascript",21,https://docs.google.com/document/d/14wnNV-cIqTIF3eE9QJXtkwyW7lQomUiCLVVPFafX6Js,https://neurostars.org/
+78,Inkscape,"c/c++, python 3",6,https://wiki.inkscape.org/wiki/index.php?title=Google_Summer_of_Code#Suggested_Project_Ideas,https://inkscape.org/community/
+79,Integrated Ocean Observing System (IOOS),"python, big data science, ocean technology",3,https://github.com/ioos/gsoc/blob/master/2021/ideas-list.md,https://gitter.im/ioos
+80,Intel Video and Audio for Linux,"ffmpeg, gstreamer, libxcam, vaapi",3,https://01.org/linuxmedia/gsoc/gsoc-2020-ideas,mailto:guangxin.xu@intel.com
+81,International Catrobat Association," android, swift, php,  javascript,  kotlin",13,https://catrob.at/gsoc21,https://github.com/Catrobat/Catroid#contributing
+82,Internet Archive,"python, javascript, hadoop, elasticsearch,  golang",2,https://docs.google.com/document/d/1qt1dfk6rNE3yzMJXbriDjpeDrn6LQeiXviREvnXP6bE/edit#heading=h.5qhlrygrim5x,mailto:info@archive.org
+83,JabRef e.V.,"java, javafx, bibtex, latex,  typescript",2,https://www.jabref.org/GSoC2021.html,https://gitter.im/JabRef/jabref?
+84,Java PathFinder," android,  distributed systems, java, jvm",3,https://github.com/javapathfinder/jpf-core/wiki/GSoC-2021-Project-Ideas,https://groups.google.com/g/java-pathfinder
+85,JBoss Community,"java, golang, rust, kubernetes, node.js",10,https://docs.jboss.org/display/GSOC/Google+Summer+of+Code+2021+Ideas,https://gitter.im/JBossOutreach/gsoc
+86,JdeRobot - Universidad Rey Juan Carlos,"ros, gazebo, tensorflow, opencv, python",6,https://jderobot.github.io/activities/gsoc/2021,https://jderobot.github.io/community
+87,Joomla!,"php, javascript, mysql, html, css",5,https://docs.joomla.org/GSoC_2021_Project_Ideas,https://glip.com/joomla
+88,Joplin,"node.js, electron, react native, react,  javascript",5,https://joplinapp.org/gsoc2021/ideas/,https://discourse.joplinapp.org/
+89,KDE Community,"c++, qt, qml, data structures, opengl",15,https://community.kde.org/GSoC/2021/Ideas,https://webchat.kde.org/
+90,Kiwix," python, c/c++,  typescript, kotlin, nodejs",3,https://www.kiwix.org/en/support-us/code/google-summer-of-code/,https://join.slack.com/t/kiwixoffline/shared_invite/enQtOTUyMTg4NzMxMTM4LTU0MzYyZDliYjdmMDYzYWMzNDA0MDc4MWE5OGM0ODFhYjAxNWIxMjVjZTU4MTkyODJlZWFkMmQ2YTZkYTUzZDY
+91,Kodi,"c++, ffmpeg, sqlite, python, opengl",2,https://kodi.wiki/view/Google_Summer_of_Code/2021,https://kodi.wiki/view/Kodi_related_projects_and_sites
+92,LabLua,"lua, céu, kernel",4,http://www.lua.inf.puc-rio.br/gsoc/ideas2021.html,http://groups.google.com/group/labluagsoc
+93,Learning Equality," django,  vue.js, python, javascript",1,https://docs.google.com/document/d/e/2PACX-1vRNU9LAVw-NKDPDPFAsm2Xi45YKDqAppqR-YQJPu43GvwwE6HmRYuBEetQl28pQF2EZznNxZ6eFaEWS/pub,mailto:gsoc-2021@learningequality.org
+94,libcamera,"c/c++, qt5, gstreamer, v4l2, linux kernel",2,https://libcamera.org/open-projects.html,https://libcamera.org/contributing.html
+95,Libre Space Foundation,"python, django, sdr, embedded systems, machine learning",3,https://gitlab.com/librespacefoundation/soc-org/-/wikis/Google-Summer-of-Code-2021#ideas,https://libre.space/community
+96,LibreCube Initiative,"python, micropython, zmq, mbed",2,https://librecube.org/google-summer-of-code-2021/,mailto:info@librecube.org
+97,LibreHealth,"android, java, javascript, python, php",5,https://forums.librehealth.io/ideas,https://chat.librehealth.io
+98,LibreOffice," c++,  python, java",7,https://wiki.documentfoundation.org/Development/GSoC/Ideas,https://wiki.documentfoundation.org/Website/IRC
+99,libvirt,"kvm, hypervisor, xen",1,http://wiki.libvirt.org/page/Google_Summer_of_Code_Ideas,http://libvirt.org/contact.html#irc
+100,Liquid Galaxy project," python, java, android, machinelearning, arduino",11,https://www.liquidgalaxy.eu/2020/12/gsoc-2021-global-and-ideas-page.html,mailto:liquidgalaxylab@gmail.com
+101,Machine Learning for Science (ML4SCI) Umbrella Organization,"python, machine learning, c/c++, data analysis, artificial intelligence",19,https://ml4sci.org/gsoc/2021/summary.html,https://gitter.im/ML4SCI/general
+102,MapAction,"python, apache airflow, data analysis, gis, visualization",1,https://mapaction.org/mapaction-project-ideas/,mailto:gsoc@mapaction.org
+103,MariaDB Foundation,"mariadb, mysql, c, c++, python",4,https://mariadb.com/kb/en/mariadb/google-summer-of-code-2021/,https://mariadb.com/kb/en/meta/irc/
+104,Matrix.org,"decentralisation, python, rust, javascript, c++",7,http://matrix-org.github.io/gsoc/#/projects,https://matrix.to/#/#gsoc:matrix.org?via=bpulse.org&via=matrix.org&via=privacytools.io
+105,Mayor's Office of New Urban Mechanics (City of Boston),"python, javascript",3,https://monum.github.io/gsoc-ideas-2021/,mailto:info@newurbanmechanics.org
+106,MBDyn,"c/c++, python",2,https://public.gitlab.polimi.it/DAER/mbdyn/-/wikis/Google-Summer-of-Code/GSoC-and-MBDyn,https://www.mbdyn.org/?Mailing_Lists
+107,MDAnalysis,"python, c/c++, cython",2,https://github.com/MDAnalysis/mdanalysis/wiki/Project-Ideas-2021,https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-FAQ
+108,Media Cloud," javascript,  python, react, docker, postgresql",0,https://docs.google.com/document/d/1hhquzLme6RB_Mi5IoysmsrghBn-EL4qXsqzZI8cJrmM/edit?usp=sharing,mailto:gsoc-support@mediacloud.org
+109,MediaPipe," android, ios, python,  javascript, c++",6,https://docs.google.com/document/d/e/2PACX-1vT2ltp_QfENlSgwX9v8kIa8a3mRt1xdND86eOzw7xt_KbRPw6Ros12cfAWtMdbCYkEi8qdnL_GCtx-Z/pub,https://app.slack.com/client/T012J2XNN4B/C01QRC74YE6/thread/C01QRC74YE6-1617375202.000600
+110,MetaBrainz Foundation Inc," python, postgresql, spark, react, rust",5,https://wiki.musicbrainz.org/Development/Summer_of_Code/2021,https://metabrainz.org/contact
+111,MetaCall,"c/c++,  javascript,  python, cmake, guix",3,https://github.com/metacall/gsoc-2021,https://github.com/metacall/gsoc-2021#find-us
+112,Metasploit,"ruby, postgresql, python, c, assembly",1,https://github.com/rapid7/metasploit-framework/wiki/GSoC-2021-Project-Ideas,https://metasploit.com/slack
+113,MGGG Redistricting Lab,"python, javascript, gis, julia, statistics",1,https://docs.google.com/document/d/1uYBJu960i8O5TADEYZMb0GVJKWgAOOn-j64R1KPIpCM/edit?usp=sharing,mailto:mggg.gsoc@gmail.com
+114,MIT App Inventor,"gwt, java, javascript",5,https://github.com/mit-cml/appinventor-sources/wiki/Google-Summer-of-Code-2021,mailto:gsoc-2021@appinventor.mit.edu
+115,mlpack,"c++, openmp",8,https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas,https://www.mlpack.org/community.html
+116,MoveIt,"c/c++, python 3, robotics",1,https://moveit.ros.org/documentation/contributing/future_projects/,https://moveit.ros.org/about/get_involved/
+117,MuseScore,"qt, qml,  c++",3,https://musescore.org/en/node/316299,https://musescore.org/en/node/271551
+118,mypy, python,2,https://github.com/python/mypy/issues/10099,https://gitter.im/mypyc-dev/community
+119,National Resource for Network Biology (NRNB),"java, javascript, python, r, xml",13,https://github.com/nrnb/GoogleSummerOfCode/issues,https://groups.google.com/forum/#!forum/cytoscape-helpdesk
+120,Navidrome," react, golang, ffmpeg",1,https://www.navidrome.org/docs/gsoc/,https://discord.gg/2qMuMyHfSV
+121,NumFOCUS," python, c/c++,  javascript, r, julia",45,https://github.com/numfocus/gsoc/blob/master/2021/ideas-list.md#ideas-pages,https://groups.google.com/a/numfocus.org/forum/#!forum/gsoc
+122,Open Bioinformatics Foundation," python, c++, c,  react, javascript",8,https://www.open-bio.org/events/gsoc/gsoc-project-ideas/,https://groups.google.com/g/obf-gsoc-general
+123,Open Chemistry,"c++14, c++17, python,  javascript, opengl",7,https://wiki.openchemistry.org/GSoC_Ideas_2021,https://openchemistry.slack.com/
+124,Open Genome Informatics,"neo4j,  python,  mysql,  react,  javascript",6,http://gmod.org/wiki/GSOC_Project_Ideas_2021,https://groups.google.com/forum/#!forum/genome-informatics
+125,Open Roberta,"java, typescript, python, c++, go",0,https://github.com/OpenRoberta/openroberta-lab/wiki/Project-Ideas,https://github.com/OpenRoberta/openroberta-lab/wiki/Community
+126,Open Robotics,"ros, gazebo, ignition, c/c++,  python",2,https://github.com/osrf/osrf_wiki/wiki/GSoC,http://wiki.ros.org/Get%20Involved
+127,openastronomy,"python, julia, numba, spark, javascript",8,https://openastronomy.org/gsoc/gsoc2021/,https://openastronomy.org
+128,OpenCV,"c++, python 3, javascript, opengl, cuda",11,https://github.com/opencv/opencv/wiki/GSoC_2021,https://webchat.freenode.net/#opencv
+129,OpenMined,"python, rust, pytorch, hyperledger aries,  javascript",5,https://www.notion.so/openmined/OpenMined-GSoC-Applications-38ceaf8251da4f4e85fed69ac7c388f3#31335fa576474e34b3505449a542bf85,https://www.openmined.org/
+130,OpenMRS,"java,  javascript, spring,  mysql,  android",11,https://wiki.openmrs.org/display/RES/Summer+Of+Code+2021,https://wiki.openmrs.org/display/IRC/Home
+131,OpenStreetMap,"java,  javascript, ruby,  python, postgresql",4,https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2021/Project_ideas,https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2021#Contact
+132,openSUSE Project,"kubernetes, artificial intelligence, linux,  python, rust",6,https://101.opensuse.org/,https://en.opensuse.org/openSUSE:IRC_list
+133,OpenWISP,"python, django, openwrt, javascript, lua",5,https://openwisp.io/docs/developer/gsoc-ideas-2021.html,https://gitter.im/openwisp/general
+134,Oppia Foundation,"angular, python, kotlin, css, typescript",18,https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2021#oppias-project-ideas-list,https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2021#communication
+135,Orcasound,"python, javascript,  react, elixir, raspberry pi",4,https://github.com/orcasound/orcagsoc/issues,https://join.slack.com/t/orcasound/shared_invite/zt-bd1jk2q9-FjeWr3OzocDBwDgS0g1FdQ
+136,OSGeo - Open Source Geospatial Foundation,"python, c/c++, javascript, sql, java",12,https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2021_Ideas,https://wiki.osgeo.org/wiki/Google_Summer_of_Code_Recommendations_for_Students#How_to_get_in_contact_via_IRC
+137,OWASP Foundation,"python, javascript, c/c++, golang",14,https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas,https://owasp.org/slack/invite
+138,PEcAn Project,"r, api, docker, kubernetes, postgresql",4,https://pecanproject.github.io/gsoc_ideas.html,https://join.slack.com/t/pecanproject/shared_invite/enQtMzkyODUyMjQyNTgzLWEzOTM1ZjhmYWUxNzYwYzkxMWVlODAyZWQwYjliYzA0MDA0MjE4YmMyOTFhMjYyMjYzN2FjODE4N2Y4YWFhZmQ
+139,Pharo Consortium,"pharo, smalltalk, roassal, spec",6,https://gsoc.pharo.org/ideas,https://discord.gg/QewZMZa
+140,Pidgin Instant Messenger,"c, gtk, gstreamer",1,https://pidgin.im/development/gsoc/ideas/,https://pidgin.im/about/community/
+141,Pitivi,"python, gtk, gstreamer, c",2,https://developer.pitivi.org/GSoC_Ideas.html,https://www.pitivi.org/contact/
+142,Plan 9 Foundation,"c,  distributed systems, concurrency,  golang",2,http://p9f.org/wiki/gsoc-2021-ideas/index.html,http://p9f.org/wiki/IRC/index.html
+143,Point Cloud Library," computer vision, c++14,  python, cuda, cmake",3,https://github.com/PointCloudLibrary/pcl/wiki/PCL-GSoc-Ideas,https://discord.gg/JFFMAXS
+144,Polypheny,"java,  javascript, angular, sql",3,https://polypheny.org/community/gsoc/,mailto:mail@polypheny.org
+145,PostgreSQL,"sql, c, python, julia, perl",6,https://wiki.postgresql.org/wiki/GSoC_2021,https://www.postgresql.org/community/irc/
+146,Postman," javascript, graphql, node.js, openapi, rest api",9,https://docs.google.com/document/d/1F2RWY7wmexsv5KOPsH7T_XiITt8gDK1PPPoaCFf5Ua8/edit?usp=sharing,https://community.postman.com/c/open-technology/gsoc/42
+147,Processing Foundation," java, javascr, python,  android, opengl",11,https://github.com/processing/processing/wiki/Project-List,https://discourse.processing.org/
+148,Project WikiLoop,"mediawiki, python, java",3,https://docs.google.com/document/d/1UmG7cMop3FYcP2jyPKwP4CLkAaqbb6e3Z2NJI2W0sbw/edit#,https://meta.wikimedia.org/wiki/WikiLoop/TibetanInitiative/GSoC
+149,Public Lab,"ruby on rails, javascript, node",4,https://publiclab.org/gsoc-ideas,https://publiclab.org/chat
+150,Purr Data,"c, c++,  javascript,  html,  css",3,https://git.purrdata.net/jwilkes/summer-of-code-ideas-list,https://disis.music.vt.edu/listinfo/l2ork-dev
+151,Python Software Foundation,python,34,https://python-gsoc.org/,http://python-gsoc.org/index.html#contact
+152,QEMU,"c, python, rust, linux",6,https://wiki.qemu.org/Google_Summer_of_Code_2021,https://webchat.oftc.net/?channels=qemu-gsoc
+153,Qubes OS,"python, shell, c, ruby",1,https://qubes-os.org/gsoc,https://www.qubes-os.org/mailing-lists/
+154,React Native Elements,"javascript, react, react native",2,https://github.com/react-native-elements/org/blob/master/GSoC/ideas.md,https://react-native-elements-slack.herokuapp.com/
+155,ReactOS,"c, c++, win32, nt",1,https://reactos.org/wiki/Google_Summer_of_Code_2021_Ideas,https://chat.reactos.org
+156,Red Hen Lab,"python, machinelearning, nlp, computer vision, big data science",12,https://www.redhenlab.org/summer-of-code/red-hen-lab-gsoc-2021-ideas,mailto:redhenlab@gmail.com
+157,Rizin,"c, c++, qt,  python",3,https://rizin.re/gsoc/2021/#project-ideas,https://rizin.re/community/
+158,RoboComp,"python, c++17, qt5, opencv, pytorch",10,https://robocomp.github.io/web/gsoc/2021/ideas/,https://gitter.im/robocomp/robocomp/robocomp-gsoc
+159,Rocket.Chat," nodejs,  react, react native, kubernetes, docker",12,https://docs.rocket.chat/contributors/gsoc/google-summer-of-code-2021#project-ideas,https://open.rocket.chat/channel/gsoc2021
+160,RTEMS Project," assembly,  posix ,  bsd unix, c/c++, python",4,https://devel.rtems.org/wiki/Developer/OpenProjects,https://devel.rtems.org/wiki/Developer/discord
+161,Ruby,ruby on rails,5,https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-%282021%29,https://github.com/rubygsoc/rubygsoc/wiki
+162,SageMath," python, cython",7,https://wiki.sagemath.org/GSoC/2021,https://groups.google.com/group/sage-gsoc/
+163,Samba,"c, smb, cifs",0,https://wiki.samba.org/index.php/SoC/Ideas,https://www.samba.org/samba/irc.html
+164,Scala Center,"#scala, #scala_lang, #jvm, #llvm, #js",4,https://github.com/scalacenter/GoogleSummerOfCode2021,https://users.scala-lang.org/
+165,SCoRe Lab,"python,  nodejs,  android,  golang",23,https://scorelab.org/gsoc/,https://gitter.im/scorelab/scorelab
+166,ScummVM," c++, sdl, opengl, lua, assembly",5,https://wiki.scummvm.org/index.php?title=Summer_of_Code/GSoC_Ideas_2021,https://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Contact
+167,Shaka Player,"javascript,  python, ui/ux, video codecs, web development",2,https://storage.googleapis.com/wvtemp/shaka/Shaka%20Player%20GSoC%20Projects%20List.pdf,https://groups.google.com/g/shaka-player-users
+168,Software Heritage," python, postgresql, django, git, elasticsearch",2,https://wiki.softwareheritage.org/wiki/Google_Summer_of_Code_2021,https://www.softwareheritage.org/community/developers/
+169,SPDX,"python, java, rdf, golang, json",4,https://wiki.spdx.org/view/GSOC/GSOC_ProjectIdeas,https://gitter.im/spdx-org/Lobby
+170,STE||AR Group,"c++, python, boost",2,https://github.com/STEllAR-GROUP/hpx/wiki/Google-Summer-of-Code-%28GSoC%29-2021,https://github.com/STEllAR-GROUP/hpx/blob/master/.github/SUPPORT.md
+171,strace,"linux, c, git,  shell script, make",1,https://strace.io/wiki/GoogleSummerOfCode2021,https://strace.io
+172,Sugar Labs,"python gtk,  javascript,  react,  vue.js,  typescript",8,https://github.com/sugarlabs/GSoC/blob/master/Ideas-2021.md,https://wiki.sugarlabs.org/go/Google_Code_In_2019#Getting_set_up_on_IRC
+173,Swift,"swift, c++, llvm",5,https://swift.org/gsoc2021/,http://forums.swift.org
+174,SymbiFlow,"fpga,  python, c/c++, verilog",1,https://docs.google.com/document/d/1owUOIe1ySb2JB6qIiEGsL8N5L6ggP27jbhCJrPAbIvM/edit,https://webchat.freenode.net/?channels=symbiflow
+175,SymPy, python,6,https://github.com/sympy/sympy/wiki/GSoC-Ideas,https://gitter.im/sympy/sympy
+176,Synfig,"c++11, gtk, gtkmm,  python",0,https://synfig-docs-dev.readthedocs.io/en/latest/gsoc/2021/ideas.html,https://forums.synfig.org/c/development
+177,syslog-ng,"elasticsearch, kafka, sql, python, c",2,https://github.com/syslog-ng/syslog-ng/wiki/GSoC2021-Idea-&-Project-list,https://gitter.im/balabit/syslog-ng
+178,Tarantool,"c, lua, sql",3,https://github.com/tarantool/tarantool/wiki/GSoC-2021,https://t.me/joinchat/IUUJgVz-9_q_8xsD
+179,TARDIS SN,"python, jupyter, numba, pandas, numpy",3,https://tardis-sn.github.io/gsoc/category/ideas-page.html,http://gitter.im/tardis-sn/gsoc
+180,TensorFlow,"python deep learning frameworks,  javascript, c/c++",17,http://goo.gle/tf-gsoc-2021,https://github.com/tensorflow/community
+181,The Apache Software Foundation,"java,  c++, c, rust",28,https://s.apache.org/gsoc2021ideas,https://wiki.apache.org/general/IRC
+182,The ENIGMA Team,"c++, opengl, qt5,  android",2,https://enigma-dev.org/tracker/gsoc.php,https://discord.gg/XTzB43C
+183,The Honeynet Project,"django, c, python, docker, c++",11,https://www.honeynet.org/gsoc/gsoc-2021/google-summer-of-code-2021-project-ideas/,https://gsoc-slack.honeynet.org/
+184,The Julia Language,"julia, julialang",20,https://julialang.org/jsoc/projects/,https://julialang.org/community/#official_channels
+185,The Libreswan Project,"c,  python, kvm, namespaces",1,https://libreswan.org/wiki/GSoC,https://libreswan.org/wiki/GSoC
+186,The Linux Foundation,"c, c++, cups, ipp, linux",18,https://wiki.linuxfoundation.org/gsoc/google-summer-code-2021,https://wiki.linuxfoundation.org/gsoc/google-summer-code-2021#if_you_have_questions
+187,The LLVM Compiler Infrastructure,"llvm, c/c++, clang, mlir",16,http://llvm.org/OpenProjects.html,http://llvm.org/docs/#irc
+188,The NetBSD Foundation," c,  bsd unix, make,  shell script",0,https://wiki.NetBSD.org/projects/gsoc/,https://wiki.NetBSD.org/community/
+189,The ns-3 Network Simulator Project,"c++, python 3",3,https://www.nsnam.org/wiki/GSOC2021Projects,https://www.nsnam.org/develop/tools/chat/
+190,The Palisadoes Foundation,"flutter, mongodb, node.js, graphql, javascript",5,http://www.palisadoes.org/gsoc/ideas/,http://www.palisadoes.org/gsoc/
+191,The R Project for Statistical Computing,"r-project, c/c++, fortran,  javascript",21,https://github.com/rstats-gsoc/gsoc2021/wiki/table-of-proposed-coding-projects,https://groups.google.com/g/gsoc-r
+192,The Terasology Foundation,"java, opengl, gradle, lwjgl, kotlin",4,https://trello.com/b/5QQGHuTt/gsoc-gsod-ideas,https://discord.gg/terasology
+193,TianoCore,"uefi, c,  python, rust, golang",5,https://github.com/tianocore/tianocore.github.io/wiki/Tasks,https://edk2.groups.io/g/devel
+194,VideoLAN,"c, c++, machine learning, video codecs, audio",9,https://wiki.videolan.org/SoC_2021/,https://www.videolan.org/contact.html
+195,vitrivr,"java, kotlin,  typescript, angular, tensorflow",2,https://vitrivr.org/gsoc.html,http://vitrivr.slack.com
+196,Wikimedia Foundation,"php,  javascript,  html,  css,  python",10,https://www.mediawiki.org/wiki/Google_Summer_of_Code/2021,https://wikimedia.zulipchat.com/#narrow/stream/274201-gsoc21-outreachy22
+197,Xfce,"gtk,  c, python, vala,  javascript",2,https://wiki.xfce.org/projects/gsoc/start,https://docs.xfce.org/contribute/dev/start
+198,Xiph.Org Foundation,"rust, c language, assembly, x86, arm",3,https://wiki.xiph.org/Summer_of_Code_2021,https://xiph.org/contact/
+199,xrdesktop,"glib, openxr, vulkan, c, wayland",2,https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/Google-Summer-of-Code-2021-Ideas,https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/Contact
+200,XWiki," java,  javascript, html5, css3, velocity",1,https://gsoc.xwiki.org/,https://dev.xwiki.org/xwiki/bin/view/Community/Chat
+201,Zulip,"python, react native, django, typescript, electron",18,https://zulip.readthedocs.io/en/latest/contributing/gsoc-ideas.html,https://zulip.readthedocs.io/en/latest/contributing/chat-zulip-org.html
